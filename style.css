@@ -49,7 +49,7 @@ nav{
 /* LEFT IMAGE SIDE */
 .hero-left{
     flex:1;
-    background:url('D:/nishal/IMG_0457.JPG.jpeg') center/cover no-repeat;
+    background:url('images/hero.jpg') center/cover no-repeat;
     position:relative;
 }
 
@@ -216,4 +216,5 @@ footer{text-align:center;padding:30px;background:#000;color:#aaa}
         flex-direction:column;width:200px;display:none;padding:20px
     }
     .nav-links.active{display:flex}
+
 }
