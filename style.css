@@ -33,7 +33,7 @@ nav{
     font-weight:500;
 }
 .nav-links{display:flex;gap:30px;list-style:none}
-.nav-links a{color:#fff;text-decoration:none;transition:.3s}
+.nav-links a{color:#000;text-decoration:none;transition:.3s}
 .nav-links a:hover{color:#c9a646}
 .menu-toggle{display:none;font-size:24px;cursor:pointer}
 
@@ -218,4 +218,5 @@ footer{text-align:center;padding:30px;background:#000;color:#aaa}
     .nav-links.active{display:flex}
 
 }
+
 
