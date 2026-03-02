@@ -147,7 +147,7 @@ nav{
 .about{display:flex;gap:50px;background:#fff;color:#111}
 .about-img{
     flex:1;
-    background:url('https://images.unsplash.com/photo-1521119989659-a83eee488004?q=80&w=2070&auto=format&fit=crop') center/cover no-repeat;
+    background:url('images/about.jpeg') center/cover no-repeat;
 }
 .about-text{flex:1;display:flex;flex-direction:column;justify-content:center}
 .quote{margin-top:20px;font-style:italic;color:#c9a646;font-size:20px}
@@ -219,6 +219,7 @@ footer{text-align:center;padding:30px;background:#000;color:#aaa}
     .nav-links.active{display:flex}
 
 }
+
 
 
 
