@@ -50,7 +50,7 @@ nav{
 /* LEFT IMAGE SIDE */
 .hero-left{
     flex:1;
-    background:url('images/hero.jpeg') center/cover no-repeat;
+    background:url('Images/hero.jpeg') center/cover no-repeat;
     position:relative;
 }
 
@@ -148,7 +148,7 @@ nav{
 .about-img{
     flex:1;
     min-height:500px;
-    background:url('images/about.jpeg') center/cover no-repeat;
+    background:url('Images/about.jpeg') center/cover no-repeat;
 }
 .about-text{flex:1;display:flex;flex-direction:column;justify-content:center}
 .quote{margin-top:20px;font-style:italic;color:#c9a646;font-size:20px}
@@ -234,6 +234,7 @@ footer{text-align:center;padding:30px;background:#000;color:#aaa}
     .nav-links.active{display:flex}
 
 }
+
 
 
 
